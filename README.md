@@ -18,5 +18,5 @@ Please use these examples responsibly to learn and understand the concepts.
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** C (or specify other languages if used)
+- **Language:** C
 - **Tools:** GCC, Makefile, Git
